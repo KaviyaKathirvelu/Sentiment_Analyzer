@@ -4,7 +4,7 @@ This is a web application that analyzes the sentiment of a given text or paragra
 
 ---
 
-****Getting Started**
+**Getting Started**
 
 1. Clone the repository and Set up the environment
 Clone the repository to your local machine and navigate to the project directory:
@@ -48,6 +48,7 @@ Download the necessary NLTK corpora for sentence tokenization to avoid errors:
 The application should now be accessible at http://127.0.0.1:8000/.
 
 **How to Use**
+
 Open the web app in your browser.
 --Enter a paragraph of text in the input field.
 --Click the "Analyze" button to see the sentiment result.
